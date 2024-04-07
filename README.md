@@ -10,6 +10,6 @@
 - study c++
 - operate study club
 
-##career
-
+##university
+yeungnam university 
 ]
