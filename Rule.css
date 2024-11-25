@@ -1,0 +1,113 @@
+/* General Styles */
+.rules {
+    padding: 40px;
+    background-color: #fff8f2;
+    text-align: center;
+}
+
+.rules-header {
+    margin-bottom: 20px;
+}
+
+.rules-header h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.rules-header p {
+    font-size: 26px;
+    color: #555;
+    margin: 5px 0;
+}
+
+.header-description {
+    font-size: 24px;
+    color: #777;
+    line-height: 1.5;
+}
+
+/* Content Styles */
+.rules-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rules-row {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    gap: 20px;
+}
+
+/* Rule Box Styles */
+.rule {
+    text-align: center;
+    max-width: 250px;
+    padding: 20px;
+}
+
+.highlight-orange {
+    color: #ff7225; /* 주황색 */
+    font-weight: bold; /* 강조 */
+}
+
+
+  .logo-image {
+    width: 250px; /* 이미지 너비 */
+    height: auto; /* 비율 유지 */
+}
+
+
+.Group-image {
+    width: 130px; /* 이미지 너비 */
+    height: auto; /* 비율 유지 */
+}
+
+.rule h2 {
+    font-size: 27px;
+    color: #333;
+    margin: 10px 0;
+}
+
+.rule ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.rule li {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.2;
+    margin-bottom: 8px;
+}
+.rules-footer {
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+/* Circle Styles */
+.circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+}
+
+/* Custom Colors for Circles */
+.circle-orange {
+    background-color: #ff8a8a;
+}
+
+.circle-yellow {
+    background-color: #ffe082;
+}
+
+.circle-blue {
+    background-color: #81d4fa;
+}
+
