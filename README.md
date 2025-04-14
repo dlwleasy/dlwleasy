@@ -34,8 +34,4 @@
  
 
   ## 🤔 Github Stats
-  [![dlwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwleasy)]
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwleasy)]
-  
 </div>
