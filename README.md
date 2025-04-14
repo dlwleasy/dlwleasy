@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**dlwleasy/dlwleasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  
+  <!--Header-->
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=%20hi%20i'm%20ji%20won🦊)
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <!--Body-->
+  
+  ## 👀 About Me
+ #### :raising_hand: I am a student at Yeungnam University.<br/>
+#### :fire: I aspire to become a developer.<br/>
+
+ 
+  <br/>
+  <br/>
+  
+  ## 🧱 Tech Stack
+  ### Language
+<!-- Java -->
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+
+<!-- C -->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+<!-- C++ -->
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
+  <br/>
+  
+ 
+
+  ## 🤔 Github Stats
+  [![dlwl's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwleasy)]
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwleasy)]
+  
+</div>
